@@ -4,6 +4,7 @@ This component is part of a bigger project called the hub, it's a project aimed 
 
 # com_Work What is it for ?
 Com Work is a joomla 5 compatible component which is a project / mission dashboard.
+
 It's perfect for small teams, it takes advantages of all Joomla Core features.
 
 # Want an easier experience?
