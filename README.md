@@ -7,6 +7,9 @@ Com Work is a joomla 5 compatible component which is a project / mission dashboa
 
 It's perfect for small teams, it takes advantages of all Joomla Core features.
 
+# Plugin based
+Your provider doesn't exist yet, it can be added with a documented plugin system
+
 # Available translations
 English, French
 
