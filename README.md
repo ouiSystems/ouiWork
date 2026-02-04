@@ -1,1 +1,2 @@
-# ouimix-connect-dolibarr
+# What Oui Do !
+# What is it for ?
