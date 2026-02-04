@@ -7,6 +7,9 @@ Com Work is a joomla 5 compatible component which is a project / mission dashboa
 
 It's perfect for small teams, it takes advantages of all Joomla Core features.
 
+# Documentation
+https://oui.onl/documentation/hub/installer-mon-instance-hub
+
 # Want an easier experience?
 Here is our self installer for the hub
 <img width="1920" height="1167" alt="image" src="https://github.com/user-attachments/assets/6343724e-dbfa-4eb8-abaf-ddca2e4e5e0b" />
